@@ -2,6 +2,10 @@
 
 A responsive, interactive Harry Potter-themed train ticket with real-time updates and customization options. Inspired by the original design from [CodePen](https://codepen.io/oliviale/pen/MZZYyO) by Olivia Ng.
 
+## Preview
+
+![Hogwarts Express Ticket Preview](https://i.ibb.co/0pvmfq1j/hogwarts-express-ticket-preview.png)
+
 ## Features
 
 - **Responsive Design**: Maintains layout at different zoom levels (1x, 0.5x, 0.25x)
